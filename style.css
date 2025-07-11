@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #ff1d58;
+    color: #f0f0e5;
+    font-family: 'Courier New', Courier, monospace;
+    /* outline: 2px solid black; */
+}
+
+body{
+    padding: 10px;
+    margin: 40px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-bottom: 5px double black;
+}
+
+.ref{
+    margin-top: 5em;
+    text-align: center;
+}
+
+.note{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 6em;
+    margin-bottom: 3em;
+}
+
+ul li{
+    font-size: x-large;
+    margin-left: 3em;
+    padding: 1em;
+    display: inline-block;
+}
